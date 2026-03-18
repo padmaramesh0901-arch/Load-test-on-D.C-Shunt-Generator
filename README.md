@@ -1,6 +1,6 @@
 # Load-test-on-D.C-Shunt-Generator
-### Name: Sampaul P
-### Reg no:212224250015
+### Name: Padmapriya R
+### Reg no:212224250012
 Aim:
 To conduct load test on separately excited generators and to obtain the characteristics
 Apparatus Required:
